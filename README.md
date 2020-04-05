@@ -23,7 +23,7 @@ npm i && npm start
 
 <table>
   <tr>
-    <td align="center"><a href="https://kritik123.github.io/Portfolio-3"><img src="https://avatars1.githubusercontent.com/u/40329238?s=460&u=ad7176c3f3f702287bda5dba9460388c8a6a6887&v=4" width="50px;" alt=""/><br /><sub><b>Kritik Shivanshu</b></sub></a><br /></td>
+    <td align="center"><a href="https://kritik123.github.io/Portfolio-3"><img src="https://avatars1.githubusercontent.com/u/40329238?s=460&u=ad7176c3f3f702287bda5dba9460388c8a6a6887&v=4" width="50px;" alt=""/><br /><sub><b>Kritik Shivanshu</b></sub></a><br /></td></table>
 
 ## Contribution
 
